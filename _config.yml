@@ -16,8 +16,7 @@
 title: fk222ex
 email: fk222ex@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a web site for the published assignments of fk222ex in 1DV022. (It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.)
+  This is a web site for the published assignments of fk222ex in 1DV022.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
