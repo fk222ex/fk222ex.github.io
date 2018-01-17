@@ -11,3 +11,5 @@ There are four required properties:
  * type
  * image
  * url
+
+ There are a number of other properties that are optional, such as "audio" or "video" for example.

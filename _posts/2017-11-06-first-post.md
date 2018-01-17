@@ -4,8 +4,10 @@ title:  First post
 ---
 _Let's see if this works_
 
-Yay! I'm amazing!
+Yay! It did!
 
 Here are some pretty pictures of glaciers:
 
-![glacier](https://www.natgeokids.com/wp-content/uploads/2017/01/Glacier-facts.jpg "Glacier")
+![glacier](/pics/glacier1.jpg "Glacier1")
+
+![glacier](/pics/glacier2.jpg "Glacier2")

@@ -1,6 +1,6 @@
 /*TEAM*/
 Name: Freja Kalm
-Location: Gothenburg, Sweden
+Location: Kalmar, Sweden
 
 /*SITE*/
-Last updated: 2017/11/16
+Last updated: 2018/01/17
