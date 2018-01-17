@@ -11,18 +11,17 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
-//$background-color: #fdfdfd !default;
-$background-color: lightblue !default;
-//$background-image: url("./_includes/glacier.jpg");
+$background-color:  white !default;
 $brand-color:      #2a7ae2 !default;
-
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 //My own
 $link-hover-color: #48A6A5;
-$background-image: url("./pics/glacier.jpg") !default;
+$background-image: url("/pics/glacier.jpg") !default;
+$padding-large: 10px;
+$padding-small: 2px;
 
 // Width of the content area
 $content-width:    800px !default;

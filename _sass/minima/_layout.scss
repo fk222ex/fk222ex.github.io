@@ -186,6 +186,8 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  background-image: $background-image;
+  color: white;
 }
 
 .page-heading {
@@ -204,11 +206,15 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  background-color: $background-color;
+  padding: $padding-small;
 }
 
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  background-color: $background-color;
+  padding: $padding-large;
 }
 
 
@@ -232,6 +238,9 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  background-color: $background-color;
+  color: $text-color;
+  padding: $padding-large;
 
   h2 {
     @include relative-font-size(2);
@@ -257,3 +266,11 @@
     }
   }
 }
+
+/**
+ * Disqus
+ */
+ #disqus_thread {
+   background-color: $background-color;
+   padding: $padding-large;
+ }
